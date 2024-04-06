@@ -1,0 +1,53 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(255, 255, 237);
+  display: flex;
+}
+
+.mainh1 {
+  font-size: 3rem;
+  margin-bottom: 123px;  
+  margin-top: 123px;
+  margin-left: 522px;
+}
+
+.todos {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: rgb(226, 226, 226);
+  border: none;
+  font-size: 1.7rem;
+  padding: 5px 12px;
+  margin-right: 80px;
+  border-radius: 3px;
+  margin-left: 12px;
+  cursor: pointer;
+}
+
+li {
+  border: solid 1px rgb(26, 26, 26);
+  padding: 12px;
+  margin: 8px;
+  font-size: 2.3rem;
+  background-color: rgb(255, 255, 255);
+  margin-left: 502px;
+  border-radius: 34px;
+}
+
+.button {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  border: 1px black solid;
+  border-radius: 5px;
+  font-size: 2rem;
+  padding: 6px 12px;
+  cursor: pointer;
+  background-color: goldenrod;
+}
+
+.btn:hover {
+  background-color: rgb(236, 236, 236);
+}
